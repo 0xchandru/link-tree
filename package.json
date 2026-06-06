@@ -5,9 +5,9 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandruthehacker/link-tree.git"
+    "url": "https://github.com/0xchandru/link-tree.git"
   },
-  "homepage": "https://chandruthehacker.github.io/link-tree",
+  "homepage": "https://0xchandru.github.io/link-tree",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

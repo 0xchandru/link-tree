@@ -1,11 +1,11 @@
-# 🌐 Link Tree - @chandruthehacker
+# 🌐 Link Tree - @0xchandru
 
 This is my **Link Tree** – a simple, responsive webpage that displays all my important links in one place.  
 You can find my portfolio, GitHub, LinkedIn, and other profiles here.
 
 ## 🔗 Live Preview
 
-## 👉 [Click to Visit](https://chandruthehacker.github.io/link-tree)
+## 👉 [Click to Visit](https://0xchandru.github.io/link-tree)
 
 ## 🖼️ Preview
 
